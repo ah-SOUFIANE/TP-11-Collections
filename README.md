@@ -228,7 +228,7 @@ TP11_Collections/
 
 Une seule vidéo montre l'exécution des 5 exercices, dans l'ordre.
 
-[Voir la démo vidéo](videos/demo.mp4)
+https://github.com/user-attachments/assets/de97062f-5ac6-4301-b31e-ecf5f5a0c83b
 
 ## Auteur
 
